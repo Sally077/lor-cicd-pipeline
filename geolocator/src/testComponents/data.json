@@ -1,0 +1,45 @@
+
+
+{"places":[
+
+{
+    "id": 10,
+    "name": "illa de la discòrdia",
+    "latitude": "41.39252970400761", 
+    "longitude": "2.1675828748080974",
+    "iframe": "https://www.google.com/maps/embed?pb=!4v1679564555226!6m8!1m7!1seyEOER1pHvRqSsIoshdHAA!2m2!1d41.39185798015352!2d2.165071133179376!3f227.87727!4f0!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade",
+    "POI": [
+        "Levis Paseo Gracia",
+        "Citrus Restaurant & Sushi bar",
+        "The almighty ubiquitous MacDonalds"
+    ],
+    "category": "Easy"
+},
+{
+    "id": 11,
+    "name": "StoneHenge",
+    "latitude": "51.17906357611896",
+    "longitude": "-1.8262364593117724",
+    "iframe": "https://www.google.com/maps/embed?pb=!4v1679565711689!6m8!1m7!1s0CKjruC5RxO1n1T9Z7WXaQ!2m2!1d51.17878154407991!2d-1.826429693013779!3f101.28380710783581!4f-22.61377901373156!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade",
+    "POI": [
+        "National Trust",
+        "Fargo Wood",
+        "Field in the middle of nowhere"
+    ],
+    "category": "Easy"
+},
+{
+    "id": 12,
+    "name": "LCL Chinese Theatre",
+    "latitude": "34.1018676314145",
+    "longitude": "-118.3409926579685",
+    "iframe": "https://www.google.com/maps/embed?pb=!4v1679566121272!6m8!1m7!1sCAoSLEFGMVFpcE4yR0FPRGVjN0JtZG05dmRfWlEyYVJHdlBoRU9Qd1JxQkhzYm0t!2m2!1d34.1019069!2d-118.3409308!3f16.47791812029424!4f5.201456241123211!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade",
+    "POI": [
+        "Holywood Walk of fame",
+        "Hard Rock Cafe",
+        "Ripley's Odditorium"
+    ],
+    "category": "Easy"
+}
+
+  ]}
